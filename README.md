@@ -21,17 +21,6 @@ You can view the full report by opening the `index.html` file in your browser, o
 
 Or download the PDF directly: [Music Platform Report.pdf](./Music%20Platform%20Report.pdf)
 
-## Deployment
-
-This project is set up for easy deployment on platforms like Vercel or Netlify. Since it consists of static files (HTML and PDF), simply connect this repository to your preferred hosting service.
-
-### Deploying on Vercel:
-1. Push this repository to GitHub.
-2. Log in to Vercel and import the project.
-3. Keep the default settings (Root directory: `/`).
-4. Click **Deploy**.
-
-The report will be live at your provided Vercel URL.
 
 ## Author
 
